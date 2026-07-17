@@ -8,5 +8,5 @@
 - `website/images/team-3.jpg` — Team photo
 - `website/images/service-1.jpg` — Service photo
 - `website/images/service-2.jpg` — Service photo
-- `website/images/remap.jpg` — ECU remap photo
+- `website/images/service-3.jpg` — Service photo
 - `website/images/ecu.jpg` — ECU photo
