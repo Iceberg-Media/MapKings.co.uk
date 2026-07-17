@@ -14,3 +14,4 @@
 8 photos available in `website/images/`. See [IMAGES.md](IMAGES.md) for full manifest or [gallery.html](gallery.html) for visual browser.
 
 **MapKings Performance** — [mapkings.co.uk](https://mapkings.co.uk/)
+Updated: Fri Jul 17 12:53:57 PM UTC 2026
